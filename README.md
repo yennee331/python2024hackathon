@@ -13,16 +13,6 @@ Members:
 
 URL:https://github.com/yakizuu/shooter
 
-## Biuuuuuu
-
-Members:
-
-1. Yeap Ming Tao
-2. Hang Su Yuan
-3. Toh Jun Yi
-
-URL: https://github.com/Yi6933/Rocket_Game
-
 ## COCOLALA
 1. Zulhasni
 2. Najmi
@@ -125,8 +115,8 @@ URL: https://github.com/yijiechoo16163/PSC-python-hackathon-2024/
 
 Members:
 
-1) Kee Jia Hor
-2)Tan Hong Ming
+1. Kee Jia Hor
+2. Tan Hong Ming
 
 URL: https://github.com/superjiahor/Team-superProo
 
@@ -139,6 +129,13 @@ Members:
 3. Siew Kae Ren
 
 URL: https://github.com/Darr3n2GG/Snake-GameJam-2024-CLHS
+
+## UNKNOWN
+1. Chia Xiang Ning
+2. Jocelyn Chong Xin Lin
+3. Wong Xin En
+
+URL: https://github.com/Cael9090/python2024hackathon
 
 ## Wan23
 1. Lee Yu Cheng
@@ -153,3 +150,4 @@ URL: https://github.com/diamondex187/pythonhackathon2024
 3. Khaw Xuan Zhen
 
 URL:https://github.com/jaz-lynn/pygame.git
+

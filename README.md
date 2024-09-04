@@ -14,6 +14,7 @@ Members:
 URL:https://github.com/yakizuu/shooter
 
 ## COCOLALA
+
 1. Zulhasni
 2. Najmi
 3. Nasuha
@@ -43,7 +44,8 @@ URL:https://github.com/haavi08/pythonhackathon2024
 
 ## Mayo
 
-Member: 
+Members:
+
 1. Lim Xing Ying
 2. Goh Ee Theng
 3. Hoh Zhi Qi
@@ -61,6 +63,7 @@ Members:
 URL: https://github.com/07MNasrullah/python2024hackathon/
 
 ## Nexus
+
 1. Nicholas Lam Jin Kit
 2. Visakan Vetha
 3. Victor Ch'ng Jong Jun
@@ -70,6 +73,7 @@ URL: https://github.com/VisakanTheGamer/our-snake_game.git
 ## Nobita
 
 Members:
+
 1. Darwisy Hakim
 2. Danial Haqiem
 3. Belinda Jeffery
@@ -86,6 +90,7 @@ URL: https://github.com/Darwisy09/python2024hackathon
 URL:https://github.com/yennee331/royalmonkey.git
 
 ## Slackers
+
 1. Foo Wei Hong
 2. Lee Guan Yi
 3. Aadhithya a/l Tharshana Moorthi
@@ -101,6 +106,14 @@ Members:
 3. Vaisshnavy Jayasilan
 
 URL: [https://example.com](https://github.com/Vaisshnavy12/The-Spice-Deciders-.git)
+
+## Squirrel Basement
+
+1. Sun Yi Ning
+2. Joan Mooi Jing Wen
+3. Melissa Wong Yuen Ying
+
+Url :https://github.com/yiningclb/Squirrels-basement
 
 ## SuiBian
 
@@ -131,6 +144,7 @@ Members:
 URL: https://github.com/Darr3n2GG/Snake-GameJam-2024-CLHS
 
 ## UNKNOWN
+
 1. Chia Xiang Ning
 2. Jocelyn Chong Xin Lin
 3. Wong Xin En
@@ -138,6 +152,7 @@ URL: https://github.com/Darr3n2GG/Snake-GameJam-2024-CLHS
 URL: https://github.com/Cael9090/python2024hackathon
 
 ## Wan23
+
 1. Lee Yu Cheng
 2. Loh Yi Qi
 3. Loh Je Le
@@ -145,15 +160,9 @@ URL: https://github.com/Cael9090/python2024hackathon
 URL: https://github.com/diamondex187/pythonhackathon2024
 
 ## YOK
+
 1. Yeap Jaz-Lynn
 2. Ong Hui Ting
 3. Khaw Xuan Zhen
 
-URL:https://github.com/jaz-lynn/pygame.git
-
-## Squirrel Basement
-1. Sun Yi Ning
-2. Joan Mooi Jing Wen
-3. Melissa Wong Yuen Ying
-Url :https://github.com/yiningclb/Squirrels-basement
-
+URL: https://github.com/jaz-lynn/pygame.git

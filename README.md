@@ -51,6 +51,15 @@ Members:
 
 URL:https://github.com/haavi08/pythonhackathon2024
 
+## Mayo
+
+Member: 
+1. Lim Xing Ying
+2. Goh Ee Theng
+3. Hoh Zhi Qi
+
+URL: https://github.com/lxy0241/pygame
+
 ## Nas
 
 Members:
@@ -77,6 +86,14 @@ Members:
 4. Zahra Zulaikha
 
 URL: https://github.com/Darwisy09/python2024hackathon
+
+## Royalmonkey
+
+1.Tan Yen Nee
+2.Yeoh Zhi Ee
+3.Yoon Ee Shyn
+
+URL:https://github.com/yennee331/royalmonkey.git
 
 ## Slackers
 1. Foo Wei Hong
@@ -138,12 +155,3 @@ URL: https://github.com/diamondex187/pythonhackathon2024
 3. Khaw Xuan Zhen
 
 URL:https://github.com/jaz-lynn/pygame.git
-
-## Mayo
-
-Member: 
-1. Lim Xing Ying
-2. Goh Ee Theng
-3. Hoh Zhi Qi
-
-URL: https://github.com/lxy0241/pygame

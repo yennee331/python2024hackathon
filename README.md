@@ -13,16 +13,6 @@ Members:
 
 URL:https://github.com/yakizuu/shooter
 
-## Biuuuuuu
-
-Members:
-
-1. Yeap Ming Tao
-2. Hang Su Yuan
-3. Toh Jun Yi
-
-URL: https://github.com/Yi6933/Rocket_Game
-
 ## COCOLALA
 
 1. Zulhasni
@@ -93,9 +83,9 @@ URL: https://github.com/Darwisy09/python2024hackathon
 
 ## Royalmonkey
 
-1.Tan Yen Nee
-2.Yeoh Zhi Ee
-3.Yoon Ee Shyn
+1. Tan Yen Nee
+2. Yeoh Zhi Ee
+3. Yoon Ee Shyn
 
 URL:https://github.com/yennee331/royalmonkey.git
 
